@@ -6,3 +6,5 @@ you can explode rocks with bullets, when you reach 1600 points you will get Righ
 and you can shot the rocks with double bullets!
 
 Just download and run `EarthDefender.exe`
+
+Created with GMS2 by pmCraft
